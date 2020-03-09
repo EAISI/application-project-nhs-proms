@@ -1,9 +1,19 @@
-jads-nhs-proms-hko
-==============================
+# jads-nhs-proms-hko
 
-Data science case study using the NHS Digital PROMs data of hip and knee replacements.
+## A data science case study using the NHS Digital PROMs data of hip and knee replacements.
+* Background: [NHS Digital PROMs portal](https://digital.nhs.uk/data-and-information/data-tools-and-services/data-services/patient-reported-outcome-measures-proms#case-studies) and the [guide to the PROMs methodology](https://digital.nhs.uk/binaries/content/assets/legacy/pdf/g/t/proms_guide_v12.pdf)
+* Intended audience: Master level and professional education
+* Learning objectives:
+  - Python: become sufficiently fluent to perform common machine learning related tasks including data understanding, data preparation, modelling and evaluation.
+  - Machnine learning: gain hands-on experience with a set of most commonly used machine learning tasks including regression, classification
 
-Project Organization
+## User guide
+* Notebooks for use during classes, including example code to get students started
+* Python src files as solutions to the problem, for reference and self study
+* Original data available in separate zip files in [data/external](https://github.com/dkapitan/jads-nhs-proms-hko/tree/master/data/external)
+
+
+## Project Organization
 ------------
 
     ├── LICENSE
@@ -54,4 +64,4 @@ Project Organization
 
 --------
 
-<p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
+Project based on the [cookiecutter data science project template](https://drivendata.github.io/cookiecutter-data-science/)
