@@ -13,7 +13,7 @@
 * Original data available in separate zip files in [data/external](https://github.com/dkapitan/jads-nhs-proms-hko/tree/master/data/external)
 
 
-## Project Organization
+## Project structure
 ------------
 
     ├── LICENSE
@@ -64,4 +64,4 @@
 
 --------
 
-Project based on the [cookiecutter data science project template](https://drivendata.github.io/cookiecutter-data-science/)
+Project structure based on the [cookiecutter data science project template](https://drivendata.github.io/cookiecutter-data-science/).
