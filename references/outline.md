@@ -1,4 +1,4 @@
-# NHS PROMs case study for hip and knee replacement
+# NHS PROMs data science case study for hip and knee replacement
 We use the CRISP-DM model, where each lessons covers sections of the whole process. For example, chapter 2 on Data Understanding has separate lessons for each sub-step:
 
   1. Collect initial data: download and combine the data
@@ -8,7 +8,7 @@ We use the CRISP-DM model, where each lessons covers sections of the whole proce
   
 ![CRIPS-DM model](https://github.com/dkapitan/jads-nhs-proms-hko/blob/master/references/crisp_visualguide.png?raw=true)
 
-# 5-day curriculum
+## 5-day curriculum
 This case study was developed with a 5-day curriculum in mind.
 
 |Day |Theory |CRISP-DM |Excercises |
@@ -18,3 +18,15 @@ This case study was developed with a 5-day curriculum in mind.
 |3 | - Machine learning algorithms: regression<br> - Performance metrics | Modeling | - Logistic regression<br> - LASSO logistic regression<br> - Cross-validation<br> - Visualizing and tuning results<br> - Describing and interpreting outcomes |
 |4 | - Machine learning algorithms: clustering & classification | Modeling | - K-nearest neighbour (KNN)<br> - Support Vector Machines (SVM)<br> - Classification and Regression Trees (CART) |
 |5 | - Machine learing: ensemble methods<br> - Recap<br> - Self-reflection | Modeling | - Random Forest (RF)<br> - Gradient Boosing Machine (GBM)<br> - Feature optimization<br> - Stacking |
+
+## Bibliography and online course material
+There is a lot of excellent data science and Python material out there. Our own favourites are:
+* [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/ by Aurélien Géron. A [series of Jupyter notebooks](https://github.com/ageron/handson-ml2) is freely available, some of which have been re-used in this case study.
+* [Real Python](https://realpython.com/)
+
+Recommended reading for Pythonista's looking to go further in writing idiomatic code:
+* [Tom Augspurger's series on modern pandas](https://tomaugspurger.github.io/modern-1-intro), and especially the article on [method chaining](https://tomaugspurger.github.io/method-chaining)
+* [Fluent Python](https://www.oreilly.com/library/view/fluent-python/9781491946237/) by Luciano Ramalho
+* [Effective Python: 90 Specific Ways to Write Better Python, 2nd Edition](Effective Python: 90 Specific Ways to Write Better Python, 2nd Edition) by Brett Slatkin
+* [Writing Idiomatic Python](https://www.jeffknupp.com/writing-idiomatic-python-ebook/) by Jeff Knupp
+* [Functional Python Programming](https://www.packtpub.com/eu/application-development/functional-python-programming-second-edition) by Steven F. Lott
