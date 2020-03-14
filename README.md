@@ -1,4 +1,4 @@
-# jads-nhs-proms-hko
+# JADS NHS PROMs data science case study
 
 ## A data science case study using the NHS Digital PROMs data of hip and knee replacements.
 * Background: [NHS Digital PROMs portal](https://digital.nhs.uk/data-and-information/data-tools-and-services/data-services/patient-reported-outcome-measures-proms#case-studies) and the [guide to the PROMs methodology](https://digital.nhs.uk/binaries/content/assets/legacy/pdf/g/t/proms_guide_v12.pdf)
