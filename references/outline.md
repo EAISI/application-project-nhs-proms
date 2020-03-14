@@ -22,11 +22,14 @@ This case study was developed with a 5-day curriculum in mind.
 ## Bibliography and online course material
 There is a lot of excellent data science and Python material out there. Our own favourites are:
 * [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/ by Aurélien Géron. A [series of Jupyter notebooks](https://github.com/ageron/handson-ml2) is freely available, some of which have been re-used in this case study.
-* [Real Python](https://realpython.com/)
+* [Real Python](https://realpython.com/).
+
+Textbooks on machine learning and AI:
+* [Artificial Intelligence: A Modern Approach](http://aima.cs.berkeley.edu/) by Stuart Russell and Peter Norvig. A fourth edition is forthcoming (expected around summer 2020).
 
 Recommended reading for Pythonista's looking to go further in writing idiomatic code:
-* [Tom Augspurger's series on modern pandas](https://tomaugspurger.github.io/modern-1-intro), and especially the article on [method chaining](https://tomaugspurger.github.io/method-chaining)
-* [Fluent Python](https://www.oreilly.com/library/view/fluent-python/9781491946237/) by Luciano Ramalho
-* [Effective Python: 90 Specific Ways to Write Better Python, 2nd Edition](Effective Python: 90 Specific Ways to Write Better Python, 2nd Edition) by Brett Slatkin
+* [Tom Augspurger's series on modern pandas](https://tomaugspurger.github.io/modern-1-intro), and especially the article on [method chaining](https://tomaugspurger.github.io/method-chaining).
+* [Fluent Python](https://www.oreilly.com/library/view/fluent-python/9781491946237/) by Luciano Ramalho.
+* [Effective Python: 90 Specific Ways to Write Better Python, 2nd Edition](https://www.oreilly.com/library/view/effective-python-90/9780134854717/) by Brett Slatkin.
 * [Writing Idiomatic Python](https://www.jeffknupp.com/writing-idiomatic-python-ebook/) by Jeff Knupp
 * [Functional Python Programming](https://www.packtpub.com/eu/application-development/functional-python-programming-second-edition) by Steven F. Lott
