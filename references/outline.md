@@ -11,10 +11,10 @@ We use the CRISP-DM model, where each lessons covers sections of the whole proce
 # 5-day curriculum
 This case study was developed with a 5-day curriculum in mind.
 
-|Day |Theory |CRISP-DM phase |Excercises |
-|:---|:------|:--------------|:----------|
-|1 | - What is machine learning?<br>- How can you apply it in projects? | - Data understanding | - Explore Y<br> - Define Y with results exploration combined with clinical knowledge<br> - Assess missing values<br> - Assess data structure<br> - Explore correlation plot (X, Y) |
-|2 | - Basic principles of machine learning | - Data preparation | - Impute missing values<br> - Select main input variables X (feature engineering<br> - Define target Y (clustered classes, categories)<br> - Decide how to handle correlated input features |
-|3 | - Machine learning algorithms - regression<br> - Performance metrics | - Modeling | - Logistic regression<br> - LASSO logistic regression<br> - Cross-validation<br> - Visualizing and tuning results<br> - Describing and interpreting outcomes |
-|4 | - Machine learning algorithms - clustering & classification | - Modeling | - K-nearest neighbour (KNN)<br> - Support Vector Machines (SVM)<br> - Classification and Regression Trees (CART) |
-|5 | - Machine learing - ensemble methods<br> - Recap<br> - Self-reflection | - Modeling | - Random Forest (RF)<br> - Gradient Boosing Machine (GBM)<br> - Feature optimization<br> - Stacking |
+|Day |Theory |CRISP-DM |Excercises |
+|:---|:------|:--------|:----------|
+|1 | - What is machine learning?<br>- How can you apply it in projects? | Data understanding | - Explore Y<br> - Define Y with results exploration combined with clinical knowledge<br> - Assess missing values<br> - Assess data structure<br> - Explore correlation plot (X, Y) |
+|2 | - Basic principles of machine learning | Data preparation | - Impute missing values<br> - Select main input variables X (feature engineering<br> - Define target Y (clustered classes, categories)<br> - Decide how to handle correlated input features |
+|3 | - Machine learning algorithms: regression<br> - Performance metrics | Modeling | - Logistic regression<br> - LASSO logistic regression<br> - Cross-validation<br> - Visualizing and tuning results<br> - Describing and interpreting outcomes |
+|4 | - Machine learning algorithms: clustering & classification | Modeling | - K-nearest neighbour (KNN)<br> - Support Vector Machines (SVM)<br> - Classification and Regression Trees (CART) |
+|5 | - Machine learing: ensemble methods<br> - Recap<br> - Self-reflection | Modeling | - Random Forest (RF)<br> - Gradient Boosing Machine (GBM)<br> - Feature optimization<br> - Stacking |
