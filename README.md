@@ -13,6 +13,10 @@
 * Original data available in separate zip files in [data/external](https://github.com/dkapitan/jads-nhs-proms-hko/tree/master/data/external)
 
 
+## Online notebook tools
+* **Recommended** Use [Google Colaboratory](https://colab.research.google.com/github/dkapitan/jads-nhs-proms/blob/master/index.ipynb)
+* (beta, but nice) Open it in [Deepnote](https://beta.deepnote.com/launch?template=data-science&url=https%3A//github.com/dkapitan/jads-nhs-proms/blob/master/index.ipynb)
+
 ## Project structure
 ------------
 
