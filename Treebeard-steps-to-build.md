@@ -1,4 +1,4 @@
-## Steps to build on Treebeard
+# Steps to build on Treebeard
 
 Added treebeard, jupyterlab and local to [pip] section of environment.yml
 
@@ -20,8 +20,8 @@ All notebooks except 4.0 now run locally without errors. Leaving 4.0 as it is wi
 # create user account
 treebeard configure
 
-# create treebeard.yaml file (already included. Nb I have ignored the data folder as code is pulling from github)
-# treebeard setup
+Create treebeard.yaml file (already included. Nb I have ignored the data folder as code is pulling from github)
+treebeard setup
 
 # submit to cloud build
 treebeard run
