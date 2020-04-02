@@ -3,6 +3,7 @@
 Added treebeard, jupyterlab and local to [pip] section of environment.yml
 
 Created conda virtualenv from environment.yml file
+`conda env create -f environment.yml`
 
 ### Changes to make notebooks run locally
 
