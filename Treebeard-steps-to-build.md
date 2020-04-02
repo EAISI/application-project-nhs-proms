@@ -13,14 +13,14 @@ Added cell in 1.0-data-understanding.ipynb:
 dfc.provider_code = dfc.provider_code.astype('str')
 ```
 
-All notebooks except 4.0 now run locally. Leaving 4.0 as it is wip.
+All notebooks except 4.0 now run locally without errors. Leaving 4.0 as it is wip.
 
-### Running on treebeard
+### Get Running on treebeard
 
 # create user account
 treebeard configure
 
-# create treebeard.yaml file (already included)
+# create treebeard.yaml file (already included. Nb I have ignored the data folder as code is pulling from github)
 # treebeard setup
 
 # submit to cloud build

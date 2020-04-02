@@ -3,6 +3,7 @@ ignore:
   - docs
   - .git
   - .ipynb_checkpoints
+  - data
 notebooks:
   - "*.ipynb"
   - "notebooks/*.ipynb"
