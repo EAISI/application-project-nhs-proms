@@ -1,0 +1,10 @@
+ignore:
+  - references
+  - docs
+  - .git
+  - .ipynb_checkpoints
+notebooks:
+  - "*.ipynb"
+  - "notebooks/*.ipynb"
+output_dirs:
+  - reports
