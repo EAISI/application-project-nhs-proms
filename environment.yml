@@ -1,19 +1,22 @@
 name: jads
 channels:
-    - defaults
-    - conda-forge
-    - damianavila82
+  - defaults
+  - conda-forge
+  - damianavila82
 dependencies:
-    - bokeh
-    - numpy
-    - matplotlib
-    - pandas
-    - pip
-    - pip:
+  - bokeh
+  - numpy
+  - matplotlib
+  - pandas
+  - pip
+  - pip:
       - dtreeviz
-    - python >= 3.7
-    - pyarrow
-    - rise
-    - scikit-learn
-    - spacy
-    - toolz
+      - treebeard
+      - jupyterlab
+      - -e .
+  - python >= 3.7
+  - pyarrow
+  - rise
+  - scikit-learn
+  - spacy
+  - toolz
