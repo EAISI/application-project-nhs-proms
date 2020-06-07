@@ -5,6 +5,7 @@ channels:
 dependencies:
   - jupyter_contrib_extensions
   - notebook
+  - nltk
   - numpy>=1.18.1
   - matplotlib
   - pandas>=1.0
