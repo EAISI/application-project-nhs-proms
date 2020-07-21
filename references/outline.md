@@ -11,15 +11,15 @@ We use the CRISP-DM model, where each lessons covers sections of the whole proce
 
 ## 5-day curriculum
 
-This case study was developed with a 5-day curriculum in mind.
+This case study was developed with a 5-day curriculum in mind. Exercises and notebooks have been prepared for the first four days. The fifth and final day is reserved for pitches and discussions of the students themselves.
 
 |Day |Theory |CRISP-DM |Excercises |Python skills|
 |:---|:------|:--------|:----------|:------------|
 |1 | - What is machine learning?<br>- How can you apply it in projects? | Data understanding | - Explore Y<br> - Define Y with results exploration combined with clinical knowledge<br> - Assess missing values<br> - Assess data structure<br> - Explore correlation plot (X, Y) | - [Using pandas to explore data](https://realpython.com/pandas-python-explore-dataset/)<br>- [Fundamental stats to describe your data](https://realpython.com/python-statistics/)<br>- [Reading and writing files with pandas](https://realpython.com/pandas-read-write-files/) |
 |2 | - Basic principles of machine learning | Data preparation | - Impute missing values<br> - Select main input variables X (feature engineering)<br> - Define target Y (clustered classes, categories)<br> - Decide how to handle correlated input features | - [Pythonic data cleaning](https://realpython.com/python-data-cleaning-numpy-pandas/)<br>- [Pandas GroupBy](https://realpython.com/pandas-groupby/)<br> - [Correlations in with numpy, scipy and pandas](https://realpython.com/numpy-scipy-pandas-correlation-python/)|
-|3 | - Machine learning algorithms: regression<br> - Performance metrics | Modeling | - Logistic regression<br> - LASSO logistic regression<br> - K-nearest neighbour (KNN)<br>  | - [Linear regression with scikit-learn and statsmodels](https://realpython.com/linear-regression-in-python/)<br> - ... add notebook ageron |
+|3 | - Machine learning algorithms: regression<br> - Performance metrics | Modeling | - Simple regression<br> - LASSO logistic regression<br> - K-nearest neighbour (KNN)<br>  | - [Linear regression with scikit-learn and statsmodels](https://realpython.com/linear-regression-in-python/)<br> - [Géron chapter 4: training linear models](https://github.com/ageron/handson-ml2/blob/master/04_training_linear_models.ipynb) |
 |4 | - Machine learning algorithms: clustering & classification | Modeling | - Support Vector Machines (SVM)<br> - Classification and Regression Trees (CART)<br> - Random Forests (RF)<br> - Gradient Boosting Machine (GBM) | - ... add notebook ageron |
-|5 | - Machine learing: performance evaluation & stacking | Evaluation | - Feature optimization<br> - Stacking<br> - Visualizing and tuning results<br> - Describing and interpreting outcomes | - ... add notebook ageron |
+
 
 ## Bibliography and online course material
 
