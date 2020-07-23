@@ -2,7 +2,7 @@
 
 ## A data science case study of the NHS Digital PROMs data of hip and knee replacements.
 
-This case study was developed with as part of the 5-day curriculum _Executing a Machine Learning Data Science project_ given at [Jheronimus Academy of Data Science (JADS)](https://jads.nl). The course follows the CRISP-DM model, where each lessons covers sections of the whole process. For example, chapter 2 on Data Understanding has separate lessons for each sub-step:
+This case study was developed with as part of the 5-day curriculum _Executing a Machine Learning Data Science project_ given at [Jheronimus Academy of Data Science (JADS) Professional Education](https://jads.n/business.html). The course follows the CRISP-DM model, where each lessons covers sections of the whole process. For example, chapter 2 on Data Understanding has separate lessons for each sub-step:
 
   1. Collect initial data: download and combine the data
   2. Describe the data: how many observations, unique values etc.?
@@ -11,7 +11,7 @@ This case study was developed with as part of the 5-day curriculum _Executing a 
 
 ![CRIPS-DM model](https://github.com/dkapitan/jads-nhs-proms-hko/blob/master/references/crisp_visualguide.png?raw=true)
 
-Exercises and notebooks have been prepared for the first four days. The fifth and final day is reserved for evaluation, reflection and pitches of the participants on their own project.
+Exercises and notebooks have been prepared for the first four days. The fifth and final day is reserved for evaluation, reflection and discussion. Following this module, participants are expected to start working on their own project, under the guidance of tutors from JADS.
 
 |Day |Theory |CRISP-DM |Excercises |Python skills|
 |:---|:------|:--------|:----------|:------------|
@@ -20,6 +20,13 @@ Exercises and notebooks have been prepared for the first four days. The fifth an
 |3 | - Machine learning algorithms: regression<br> - Performance metrics | Modeling | - Simple regression<br> - LASSO logistic regression<br> - K-nearest neighbour (KNN)<br>  | - [Linear regression with scikit-learn and statsmodels](https://realpython.com/linear-regression-in-python/)<br> - [Géron chapter 4: training linear models](https://github.com/ageron/handson-ml2/blob/master/04_training_linear_models.ipynb) |
 |4 | - Machine learning algorithms: clustering & classification | Modeling | - Support Vector Machines (SVM)<br> - Classification and Regression Trees (CART)<br> - Random Forests (RF)<br> - Gradient Boosting Machine (GBM) | - ... add notebook ageron |
 
+## Background and objectives
+
+* Background: [NHS Digital PROMs portal](https://digital.nhs.uk/data-and-information/data-tools-and-services/data-services/patient-reported-outcome-measures-proms#case-studies) and the [guide to the PROMs methodology](https://digital.nhs.uk/binaries/content/assets/legacy/pdf/g/t/proms_guide_v12.pdf)
+* Intended audience: Master level and professional education
+* Learning objectives:
+  * Python: become sufficiently fluent to perform common machine learning related tasks including data understanding, data preparation, modelling and evaluation.
+  * Machnine learning: gain hands-on experience with a set of most commonly used machine learning tasks including regression, classification
 
 ## Bibliography and online course material
 
@@ -30,6 +37,7 @@ There is a lot of excellent data science and Python material out there. Our own 
 
 Textbooks on machine learning and AI:
 
+* [Introduction to Statistical Learning](http://faculty.marshall.usc.edu/gareth-james/ISL/) by James, Witten, Hastie and Tibshirani (2013).
 * [Artificial Intelligence: A Modern Approach](http://aima.cs.berkeley.edu/) by Stuart Russell and Peter Norvig. A fourth edition is forthcoming (expected around summer 2020).
 
 Recommended reading for Pythonista's looking to go further in writing idiomatic code:
@@ -43,15 +51,6 @@ Recommended reading for Pythonista's looking to go further in writing idiomatic 
 ## 1-day curriculum
 
 A short 1-day version is also available. Based [chapter 2 from Géron's book](https://github.com/ageron/handson-ml2/blob/master/02_end_to_end_machine_learning_project.ipynb), and end-to-end machine learning project following the steps of CRISP-DM is demonstrated using the California housing prices case study.
-
-
-## Background and objectives
-
-* Background: [NHS Digital PROMs portal](https://digital.nhs.uk/data-and-information/data-tools-and-services/data-services/patient-reported-outcome-measures-proms#case-studies) and the [guide to the PROMs methodology](https://digital.nhs.uk/binaries/content/assets/legacy/pdf/g/t/proms_guide_v12.pdf)
-* Intended audience: Master level and professional education
-* Learning objectives:
-  * Python: become sufficiently fluent to perform common machine learning related tasks including data understanding, data preparation, modelling and evaluation.
-  * Machnine learning: gain hands-on experience with a set of most commonly used machine learning tasks including regression, classification
 
 ## User guide
 
@@ -67,6 +66,7 @@ A short 1-day version is also available. Based [chapter 2 from Géron's book](ht
 * Prepared dataset available in `.parquet` format in [data/interim](https://github.com/dkapitan/jads-nhs-proms/tree/master/data/interim)
 
 ### Project structure
+
 ---
 
     ├── LICENSE
