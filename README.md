@@ -2,7 +2,7 @@
 
 ## A data science case study of the NHS Digital PROMs data of hip and knee replacements.
 
-This case study was developed with as part of the 5-day curriculum _Executing a Machine Learning Data Science project_ given at [Jheronimus Academy of Data Science (JADS) Professional Education](https://jads.n/business.html). The course follows the CRISP-DM model, where each lessons covers sections of the whole process. For example, chapter 2 on Data Understanding has separate lessons for each sub-step:
+This case study was developed with as part of the 5-day curriculum _Executing a Machine Learning Data Science project_ given at [Jheronimus Academy of Data Science (JADS) Professional Education](https://jads.nl/business.html). The course follows the CRISP-DM model, where each lessons covers sections of the whole process. For example, chapter 2 on Data Understanding has separate lessons for each sub-step:
 
   1. Collect initial data: download and combine the data
   2. Describe the data: how many observations, unique values etc.?
