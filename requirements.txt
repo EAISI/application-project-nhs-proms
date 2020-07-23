@@ -1,11 +1,11 @@
-# local package
--e .
-
-# external requirements
-dtreeviz
+bokeh
+matplotlib
 numpy
-pandas>=1.0.0
+pandas
+pip
 pyarrow
-requests
-sklearn
+rise
+scikit-learn
+seaborn
+spacy
 toolz

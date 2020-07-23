@@ -10,13 +10,14 @@ dependencies:
   - pandas
   - pip
   - pip:
-      - dtreeviz
-      - treebeard
-      - jupyterlab
-      - -e .
+    - dtreeviz
+    - treebeard
+    - jupyterlab
+    - -e .
   - python >= 3.7
   - pyarrow
   - rise
+  - seaborn
   - scikit-learn
   - spacy
   - toolz
