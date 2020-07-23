@@ -7,6 +7,7 @@
   - Machnine learning: gain hands-on experience with a set of most commonly used machine learning tasks including regression, classification
 
 ## User guide
+* [Course outline](https://github.com/dkapitan/jads-nhs-proms/blob/master/references/outline.md)
 * Notebooks for use during classes, including example code to get students started
 * Python src files as solutions to the problem, for reference and self study
 * Original data available in separate zip files in [data/external](https://github.com/dkapitan/jads-nhs-proms-hko/tree/master/data/external)
