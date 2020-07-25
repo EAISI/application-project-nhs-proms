@@ -26,7 +26,7 @@ Exercises and notebooks have been prepared for the first four days. The fifth an
 * Intended audience: Master level and professional education
 * Learning objectives:
   * Python: become sufficiently fluent to perform common machine learning related tasks including data understanding, data preparation, modelling and evaluation.
-  * Machnine learning: gain hands-on experience with a set of most commonly used machine learning tasks including regression, classification
+  * Machine learning: gain hands-on experience with a set of most commonly used machine learning tasks including regression, classification
 
 ## Bibliography and online course material
 
