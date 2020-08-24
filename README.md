@@ -18,7 +18,7 @@ Exercises and notebooks have been prepared for the first four days. The fifth an
 |1 | - What is machine learning?<br>- How can you apply it in projects? | Data understanding | - Explore Y<br> - Define Y with results exploration combined with clinical knowledge<br> - Assess missing values<br> - Assess data structure<br> - Explore correlation plot (X, Y) | - [Using pandas to explore data](https://realpython.com/pandas-python-explore-dataset/)<br>- [Fundamental stats to describe your data](https://realpython.com/python-statistics/)<br>- [Reading and writing files with pandas](https://realpython.com/pandas-read-write-files/) |
 |2 | - Basic principles of machine learning | Data preparation | - Impute missing values<br> - Select main input variables X (feature engineering)<br> - Define target Y (clustered classes, categories)<br> - Decide how to handle correlated input features | - [Pythonic data cleaning](https://realpython.com/python-data-cleaning-numpy-pandas/)<br>- [Pandas GroupBy](https://realpython.com/pandas-groupby/)<br> - [Correlations in with numpy, scipy and pandas](https://realpython.com/numpy-scipy-pandas-correlation-python/)|
 |3 | - Machine learning algorithms: regression<br> - Performance metrics | Modeling | - Simple regression<br> - LASSO logistic regression<br> - K-nearest neighbour (KNN)<br>  | - [Linear regression with scikit-learn and statsmodels](https://realpython.com/linear-regression-in-python/)<br> - [Géron chapter 4: training linear models](https://github.com/ageron/handson-ml2/blob/master/04_training_linear_models.ipynb) |
-|4 | - Machine learning algorithms: clustering & classification | Modeling | - Support Vector Machines (SVM)<br> - Classification and Regression Trees (CART)<br> - Random Forests (RF)<br> - Gradient Boosting Machine (GBM) | - ... add notebook ageron |
+|4 | - Machine learning algorithms: clustering & classification | Modeling | - Support Vector Machines (SVM)<br> - Classification and Regression Trees (CART)<br> - Random Forests (RF)<br> - Gradient Boosting Machine (GBM) | - [Géron chapter 3: Classification](https://github.com/ageron/handson-ml2/blob/master/03_classification.ipynb)<br>- [Géron chapter 5: Support-vector machines](https://github.com/ageron/handson-ml2/blob/master/05_support_vector_machines.ipynb)<br> - [Géron chapter 6: Decision trees](https://github.com/ageron/handson-ml2/blob/master/06_decision_trees.ipynb)<br> - [Géron chapter 7: Ensemble learning and random forests](https://github.com/ageron/handson-ml2/blob/master/07_ensemble_learning_and_random_forests.ipynb)|
 
 ## Background and objectives
 
@@ -27,6 +27,8 @@ Exercises and notebooks have been prepared for the first four days. The fifth an
 * Learning objectives:
   * Python: become sufficiently fluent to perform common machine learning related tasks including data understanding, data preparation, modelling and evaluation.
   * Machine learning: gain hands-on experience with a set of most commonly used machine learning tasks including regression, classification
+
+By the end of this course, you should be able to understand and reproduce the analysis in this paper by [Huber et al. (2019)](https://github.com/dkapitan/jads-nhs-proms/blob/master/references/huber2019predicting.pdf) where PROMs following hip and knee replacement surgery are predicted using supervised learning.
 
 ## Bibliography and online course material
 
