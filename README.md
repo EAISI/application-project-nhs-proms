@@ -2,7 +2,7 @@
 
 ## A data science case study of the NHS Digital PROMs data of hip and knee replacements.
 
-This case study was developed as part of the 5-day curriculum _Executing a Machine Learning Data Science project_ given at [Jheronimus Academy of Data Science (JADS) Professional Education](https://jads.nl/business.html). The course follows the CRISP-DM model, where each lessons covers sections of the whole process. For example, chapter 2 on Data Understanding has separate lessons for each sub-step:
+This case study was developed as part of the 5-day curriculum _Executing a Machine Learning Data Science project_ given at [Jheronimus Academy of Data Science (JADS) Professional Education](https://jads.nl/business.html). The course follows the CRISP-DM model, where each lesson covers sections of the whole process. For example, chapter 2 on Data Understanding has separate lessons for each sub-step:
 
   1. Collect initial data: download and combine the data
   2. Describe the data: how many observations, unique values etc.?
@@ -34,7 +34,7 @@ By the end of this course, you should be able to understand and reproduce the an
 
 There is a lot of excellent data science and Python material out there. Our own favourites are:
 
-* [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) by Aurélien Géron. A [series of Jupyter notebooks](https://github.com/ageron/handson-ml2) is freely available, some of which have been re-used in this case study.
+* [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) by Aurélien Géron. A [series of Jupyter notebooks](https://github.com/ageron/handson-ml2) is freely available, some of which are used in this case study.
 * [Real Python's tutorials on data science](https://realpython.com/tutorials/data-science/), of which a selection of tutorials are tied in to specific lessons.
 
 Textbooks on machine learning and AI:
@@ -98,3 +98,9 @@ A short 1-day version is also available. Based [chapter 2 from Géron's book](ht
 
 ---
 Project structure based on the [cookiecutter data science project template](https://drivendata.github.io/cookiecutter-data-science/).
+
+### License
+
+[JADS NHS PROMs Data Science Case Study](www.github.com/dkapitan/jads-nhs-proms) by [Daniel Kapitan](www.linkedin.com/in/dkapitan) is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0).
+
+[![](https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1) ![](https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1) ![](https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1)](https://creativecommons.org/licenses/by-sa/4.0)

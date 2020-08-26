@@ -16,6 +16,8 @@ ipykernel = "^5.3.4"
 pyarrow = "^1.0.0"
 imbalanced-learn = "^0.7.0"
 toolz = "^0.10.0"
+jupyter = "^1.0.0"
+xgboost = "^1.2.0"
 
 [tool.poetry.dev-dependencies]
 dephell = "^0.8.3"

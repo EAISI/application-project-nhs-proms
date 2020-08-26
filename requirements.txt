@@ -2,6 +2,7 @@ black==19.*,>=19.10.0.b0
 dephell==0.*,>=0.8.3
 imbalanced-learn==0.*,>=0.7.0
 ipykernel==5.*,>=5.3.4
+jupyter==1.*,>=1.0.0
 matplotlib==3.*,>=3.3.0
 numpy==1.*,>=1.19.1
 pandas==1.*,>=1.0.0

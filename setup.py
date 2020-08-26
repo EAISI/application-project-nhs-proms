@@ -25,8 +25,9 @@ setup(
     package_data={},
     install_requires=[
         'imbalanced-learn==0.*,>=0.7.0', 'ipykernel==5.*,>=5.3.4',
-        'matplotlib==3.*,>=3.3.0', 'numpy==1.*,>=1.19.1', 'pandas==1.*,>=1.0.0',
-        'pyarrow==1.*,>=1.0.0', 'seaborn==0.*,>=0.10.1', 'toolz==0.*,>=0.10.0',
+        'jupyter==1.*,>=1.0.0', 'matplotlib==3.*,>=3.3.0',
+        'numpy==1.*,>=1.19.1', 'pandas==1.*,>=1.0.0', 'pyarrow==1.*,>=1.0.0',
+        'seaborn==0.*,>=0.10.1', 'toolz==0.*,>=0.10.0',
         'yellowbrick==1.*,>=1.1.0'
     ],
     extras_require={
