@@ -50,6 +50,8 @@ Recommended reading for Pythonista's looking to go further in writing idiomatic 
 * [Writing Idiomatic Python](https://www.jeffknupp.com/writing-idiomatic-python-ebook/) by Jeff Knupp
 * [Functional Python Programming](https://www.packtpub.com/eu/application-development/functional-python-programming-second-edition) by Steven F. Lott
 
+Incidentally, if you prefer to use R instead of Python, we recommend using [Bradley Boehmke & Brandon Greenwell's Hands-On Machine Learning with R](https://bradleyboehmke.github.io/HOML/).
+
 ## 1-day curriculum
 
 A short 1-day version is also available. Based [chapter 2 from Géron's book](https://github.com/ageron/handson-ml2/blob/master/02_end_to_end_machine_learning_project.ipynb), and end-to-end machine learning project following the steps of CRISP-DM is demonstrated using the California housing prices case study.
