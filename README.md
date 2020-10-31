@@ -103,6 +103,7 @@ Project structure based on the [cookiecutter data science project template](http
 
 ### License
 
-[JADS NHS PROMs Data Science Case Study](https://www.github.com/dkapitan/jads-nhs-proms) by [Daniel Kapitan](https://www.linkedin.com/in/dkapitan) is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0).
+[JADS NHS PROMs Data Science Case Study](https://www.github.com/dkapitan/jads-nhs-proms) by [Daniel Kapitan](https://www.linkedin.com/in/dkapitan) is licensed under under a
+[Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
 
-<a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" /><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" /><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1" /></a>
+[![CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)]([http://creativecommons.org/licenses/by-sa/4.0/) 
