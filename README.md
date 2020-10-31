@@ -34,9 +34,7 @@ After having worked through this case study, you should be able to understand an
     ├── README.md             <- The top-level README for this project.
     ├── data
     │   ├── external          <- Data from third party sources.
-    │   ├── interim           <- Intermediate data that has been transformed.
-    │   ├── processed         <- The final, canonical data sets for modeling.
-    │   └── raw               <- The original, immutable data dump.
+    │   └── interim           <- Intermediate data that has been transformed.
     │
     ├── environment.yml       <- conda environment file for reproducing the analysis environment
     │
