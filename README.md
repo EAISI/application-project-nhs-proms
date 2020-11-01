@@ -16,9 +16,8 @@ By the end of this course, you should be able to understand and reproduce the an
 
 ### Online notebook tools
 
-* **Recommended** Use [Google Colaboratory](https://colab.research.google.com/github/dkapitan/jads-nhs-proms/blob/master/index.ipynb)
-* Open it in [Deepnote (beta)](https://beta.deepnote.com/launch?template=data-science&url=https%3A//github.com/dkapitan/jads-nhs-proms/blob/master/index.ipynb)
-* Use [Treebeard](https://treebeard.io/), see the [setup instructions](https://colab.research.google.com/github/dkapitan/jads-nhs-proms/blob/master/treebeard-setup.md)
+* **Recommended** Use [Google Colaboratory](https://colab.research.google.com/github/jads-nl/execute-nhs-proms/blob/master/index.ipynb) or in [Kaggle](https://www.kaggle.com/dkapitan/nhs-proms-case-study)
+* Open it in [Deepnote](https://beta.deepnote.com/launch?template=data-science&url=https%3A//github.com/jads-nl/execute-nhs-proms/blob/master/index.ipynb)
 
 ### Dataset
 
@@ -57,7 +56,7 @@ Project structure based on the [cookiecutter data science project template](http
 
 ### License
 
-[JADS NHS PROMs Data Science Case Study](https://www.github.com/dkapitan/jads-nhs-proms) by [Daniel Kapitan](https://www.linkedin.com/in/dkapitan) is licensed under under a
+[JADS NHS PROMs Data Science Case Study](https://www.github.com/jads-nl/execute-nhs-proms) by [Daniel Kapitan](https://www.linkedin.com/in/dkapitan) is licensed under under a
 [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
 
 [![CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)]([http://creativecommons.org/licenses/by-sa/4.0/) 
