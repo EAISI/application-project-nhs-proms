@@ -54,9 +54,6 @@ By the end of this course, you should be able to understand and reproduce the an
 ---
 Project structure based on the [cookiecutter data science project template](https://drivendata.github.io/cookiecutter-data-science/).
 
-### License
+### Copyright and license notice
 
-[JADS NHS PROMs Data Science Case Study](https://www.github.com/jads-nl/execute-nhs-proms) by [Daniel Kapitan](https://www.linkedin.com/in/dkapitan) is licensed under under a
-[Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
-
-[![CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)]([http://creativecommons.org/licenses/by-sa/4.0/) 
+![CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg) &copy; 2020 by [Daniel Kapitan](https://www.linkedin.com/in/dkapitan). _[JADS NHS PROMs data science case study](https://www.github.com/jads-nl/execute-nhs-proms)_.<br>This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
