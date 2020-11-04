@@ -56,4 +56,4 @@ Project structure based on the [cookiecutter data science project template](http
 
 ### Copyright and license notice
 
-![CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg) &copy; 2020 by [Daniel Kapitan](https://www.linkedin.com/in/dkapitan). _[JADS NHS PROMs data science case study](https://www.github.com/jads-nl/execute-nhs-proms)_.<br>This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
+![CC BY-SA 4.0](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)<br>&copy; 2020 by [Daniel Kapitan](https://www.linkedin.com/in/dkapitan). _[JADS NHS PROMs data science case study](https://www.github.com/jads-nl/execute-nhs-proms)_.<br>This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
